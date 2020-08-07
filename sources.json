@@ -1,0 +1,16 @@
+{
+  "badc0de": {
+    "branch": "master",
+    "date": "2020-08-04T12:35:47+03:00",
+    "deepClone": false,
+    "fetchSubmodules": false,
+    "leaveDotGit": false,
+    "owner": "phadej",
+    "path": "/nix/store/dacrwq20jp0x69da2hz6n9gsifkk4hpf-git-badc0de",
+    "repo": "git-badc0de",
+    "rev": "badc0ded445cd60297d1c3d83fab835ad6456b58",
+    "sha256": "0zfypym0nxg50jdq4bvccqpn67li0220sznxvkqzjir4nk001hdn",
+    "type": "github",
+    "url": "https://github.com/phadej/git-badc0de"
+  }
+}
